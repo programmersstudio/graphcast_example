@@ -1,0 +1,1 @@
+Download source file for graphcast_small model from Google Cloud Bucket. https://console.cloud.google.com/storage/browser/dm_graphcast
